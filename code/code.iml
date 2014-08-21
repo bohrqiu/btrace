@@ -39,7 +39,9 @@
           <root url="jar://$MODULE_DIR$/lib/btrace-boot.jar!/" />
         </CLASSES>
         <JAVADOC />
-        <SOURCES />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/libsrc/btrace-boot-1.2.3-sources.jar!/" />
+        </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="library" name="Maven: junit:junit:4.11" level="project" />
